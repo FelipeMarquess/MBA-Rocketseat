@@ -1,0 +1,11 @@
+#cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-block: 20px;
+}
+
+#cabecalho span img {
+    vertical-align: middle;
+    /* padding-right: 8px; */
+}

@@ -26,6 +26,12 @@ body {
     background-color: var(--bg-color);
 }
 
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding-inline: 32px;
+}
+
 a {
     text-decoration: none;
     color: inherit;
@@ -37,4 +43,8 @@ a:hover {
 
 h1, h2, h3 {
     font: inherit;
+}
+
+ul {
+    list-style: none;
 }
